@@ -1,0 +1,2 @@
+# Talkity
+A primitive Chatbot maker in C++. Uses user interaction to grow and learn. Can recognize words made of numbers and then use them in sentences, it can also learn different answers and replies for the same query/message, it can also detect and understand if you make typos to some degree (eg. understnd = understand, learnig = learning.).  You can even change their names and give them personality traits and quantify inquisitive nature.
